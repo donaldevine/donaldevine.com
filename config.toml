@@ -1,4 +1,4 @@
-baseurl = "http://www.donaldevine.com"
+baseurl = "http://donaldevine.com"
 title = "donaldevine"
 theme = "hugo-coder"
 languagecode = "en"
