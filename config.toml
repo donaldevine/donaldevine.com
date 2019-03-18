@@ -1,0 +1,4 @@
+baseURL = "http://donaldevine.com/"
+languageCode = "en-us"
+title = "donaldevine.com"
+theme = "KeepIt"
